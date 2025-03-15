@@ -10,7 +10,7 @@ A wearable assistive device designed to enhance navigation for visually impaired
 # **Hardware Components**
 - **Raspberry Pi 5**  
 - **Raspberry Pi Camera Module 3**    
-- **Headphone/Speaker for Audio Output**
+- **Headphone for Audio Output**
 
 # **Software & Libraries Used**  
 - **Python** (main programming language)  
