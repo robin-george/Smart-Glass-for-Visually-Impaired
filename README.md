@@ -24,3 +24,6 @@ A wearable assistive device designed to enhance navigation for visually impaired
 2. **Object Recognition:** Runs **YOLOv8** on the Raspberry Pi for real-time object classification.  
 3. **Text Recognition:** Captures images of text and converts them into speech using **Tesseract OCR**.  
 4. **Audio Output:** The processed information is communicated to the user via **text-to-speech (TTS)**.  
+
+## License  
+This project is licensed under the **MIT License**. 
